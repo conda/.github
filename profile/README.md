@@ -1,2 +1,2 @@
-# The Conda Org
-This is the home to the various conda projects such as conda, conda-build, and conda constructor etc.
+# The Conda Organization
+Conda is an open source organization and the community behind conda, conda-incubator and conda-archive.
