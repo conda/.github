@@ -1,5 +1,10 @@
 # The conda Organization
-conda is an open source organization and the community behind [conda](https://github.com/conda/conda), [conda-incubator](https://github.com/conda-incubator), and [conda-archive](https://github.com/conda-archive).<br>
+Conda is an open-source organization and the community behind the [conda](https://github.com/conda/conda) package manager.
+
+The conda community is composed of three organizations here on GitHub:
+- [conda](https://github.com/conda): where officially supported projects live
+- [conda-incubator](https://github.com/conda-incubator): where community incubated projects live
+- [conda-archive](https://github.com/conda-archive): where inactive and archived projects live
 
 All interactions within the conda Organization are governed by our [Code of Conduct](https://github.com/conda-incubator/governance/blob/main/CODE_OF_CONDUCT.md#the-short-version).<br>
 
