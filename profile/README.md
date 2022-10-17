@@ -6,6 +6,32 @@ The conda community is composed of three organizations here on GitHub:
 - [conda-incubator](https://github.com/conda-incubator): where community incubated projects live
 - [conda-archive](https://github.com/conda-archive): where inactive and archived projects live
 
+The flowchart below explains how projects move within these organizations:
+
+```mermaid
+flowchart
+    %% nodes
+    community(Community):::community
+    incubator(conda-incubator):::github
+    conda(conda):::github
+    archive(conda-archive):::github
+
+    %% graph
+    community-- invitation -->incubator
+    incubator-- incorporation -->conda
+    %% incubator-- inactive -->archive
+    %% incubator-- unassociated -->community
+    conda-- inactive -->archive
+    %% conda-- dissolved -->incubator
+    %% archive-- revived -->incubator
+
+    %% style
+    classDef community fill:#a5e8c1,stroke:#114226,stroke-width:2,stroke-dasharray: 5 5
+    classDef github fill:#24292f,stroke:none,color:#fff
+```
+
+Note that projects may also be directly added to the conda organization upon request to the steering council. For more details please read [Incorporate a Software Project into the main conda Organization](https://github.com/conda-incubator/governance#incorporate-a-software-project-into-the-main-conda-organization).
+
 ### Important Repositories
 
 - [conda](https://github.com/conda/conda)
