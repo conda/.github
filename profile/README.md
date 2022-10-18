@@ -30,7 +30,7 @@ flowchart
     classDef github fill:#24292f,stroke:none,color:#fff
 ```
 
-Note that projects may also be directly added to the conda organization upon request to the steering council. For more details please read [Incorporate a Software Project into the main conda Organization](https://github.com/conda-incubator/governance#incorporate-a-software-project-into-the-main-conda-organization).
+Note that projects may also be directly added to the conda organization upon request to the steering council. For more details, please read [Incorporate a Software Project into the main conda Organization](https://github.com/conda-incubator/governance#incorporate-a-software-project-into-the-main-conda-organization).
 
 ### Important Repositories
 
