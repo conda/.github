@@ -1,15 +1,30 @@
+[conda-org]: https://github.com/conda
+[conda-incubator-org]: https://github.com/conda-incubator
+[conda-archive-org]: https://github.com/conda-archive
+
+[governance]: https://github.com/conda-incubator/governance
+[coc]: https://github.com/conda-incubator/governance/blob/main/CODE_OF_CONDUCT.md#the-short-version
+[ceps]: https://github.com/conda-incubator/ceps
+[discourse]: https://conda.discourse.group/
+[twitter]: https://twitter.com/condaproject
+
+[transferring]: https://github.com/conda-incubator/governance#incorporate-a-software-project-into-the-main-conda-organization
+
+[conda]: https://github.com/conda/conda
+[conda-build]: https://github.com/conda/conda-build
+
 # The conda Organization
-Conda is an open-source organization and the community behind the [conda](https://github.com/conda/conda) package manager.
+Conda is an open-source organization and the community behind the [conda][conda] package manager.
 
 The conda community is composed of three organizations here on GitHub:
-- [conda](https://github.com/conda): where officially supported projects live
-- [conda-incubator](https://github.com/conda-incubator): where community incubated projects live
-- [conda-archive](https://github.com/conda-archive): where inactive and archived projects live
+- [conda][conda-org]: where officially supported projects live
+- [conda-incubator][conda-incubator-org]: where community incubated projects live
+- [conda-archive][conda-archive-org]: where inactive and archived projects live
 
 The flowchart below explains how projects move within these organizations:
 
 ```mermaid
-flowchart
+flowchart LR
     %% nodes
     community(Community):::community
     incubator(conda-incubator):::github
@@ -30,20 +45,22 @@ flowchart
     classDef github fill:#24292f,stroke:none,color:#fff
 ```
 
-Note that projects may also be directly added to the conda organization upon request to the steering council. For more details, please read [Incorporate a Software Project into the main conda Organization](https://github.com/conda-incubator/governance#incorporate-a-software-project-into-the-main-conda-organization).
+> **Note**
+> Projects may also be directly added to the conda organization upon request to the
+> steering council. For more details, please read [Incorporate a Software Project into the main conda Organization][transferring].
 
 ### Important Repositories
 
-- [conda](https://github.com/conda/conda)
-- [conda-build](https://github.com/conda/conda-build)
+- [conda][conda]
+- [conda-build][conda-build]
 
 ### Important Community Places
 
-- [Governance](https://github.com/conda-incubator/governance): outlines and defines how the conda community works
-- [CEPs](https://github.com/conda-incubator/ceps): Conda Enhancement Proposals
-- [Discourse](https://conda.discourse.group/): conda community discussion forum
-- [Twitter](https://twitter.com/condaproject): for the latest developments
+- [Governance][governance]: outlines and defines how the conda community works
+- [CEPs][ceps]: Conda Enhancement Proposals
+- [Discourse][discourse]: conda community discussion forum
+- [Twitter][twitter]: for the latest developments
 
 ---
 
-All interactions within the conda Organization are governed by our [Code of Conduct](https://github.com/conda-incubator/governance/blob/main/CODE_OF_CONDUCT.md#the-short-version).
+All interactions within the conda Organization are governed by our [Code of Conduct][coc].
