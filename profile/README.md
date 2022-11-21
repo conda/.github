@@ -41,7 +41,7 @@ flowchart LR
     %% archive-- revived -->incubator
 
     %% style
-    classDef community fill:#ffffff,stroke:#114226,stroke-width:2,stroke-dasharray: 5 5
+    classDef community fill:#fff,stroke:#24292f,stroke-width:2,stroke-dasharray: 5 5
     classDef github fill:#24292f,stroke:none,color:#fff
 ```
 
