@@ -33,7 +33,7 @@ flowchart LR
 
     %% graph
     community-- invitation -->incubator
-    incubator-- incorporation -->conda
+    incubator-- graduation -->conda
     %% incubator-- inactive -->archive
     %% incubator-- unassociated -->community
     conda-- inactive -->archive
