@@ -7,6 +7,7 @@
 [ceps]: https://github.com/conda-incubator/ceps
 [discourse]: https://conda.discourse.group/
 [twitter]: https://twitter.com/condaproject
+[matrix]: https://matrix.to/#/#conda:matrix.org
 
 [transferring]: https://github.com/conda-incubator/governance#incorporate-a-software-project-into-the-main-conda-organization
 
@@ -60,6 +61,7 @@ flowchart LR
 - [CEPs][ceps]: Conda Enhancement Proposals
 - [Discourse][discourse]: conda community discussion forum
 - [Twitter][twitter]: for the latest developments
+- [Matrix][matrix]: chat with us
 
 ---
 
