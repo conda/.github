@@ -14,6 +14,9 @@
 [conda]: https://github.com/conda/conda
 [conda-build]: https://github.com/conda/conda-build
 
+[planning-board]: https://github.com/orgs/conda/projects/2
+[epic-board]: https://github.com/orgs/conda/projects/14
+
 # The conda Organization
 Conda is an open-source organization and the community behind the [conda][conda] package manager.
 
@@ -54,6 +57,13 @@ flowchart LR
 
 - [conda][conda]
 - [conda-build][conda-build]
+
+### Projects
+
+These are GitHub projects that conda repositories use to keep track of their work.
+
+- [Planning][planning-board]
+- [Epics][epic-board]
 
 ### Important Community Places
 
