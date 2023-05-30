@@ -1,7 +1,9 @@
-[conda-org]: https://github.com/conda
-[conda-incubator-org]: https://github.com/conda-incubator
-[conda-archive-org]: https://github.com/conda-archive
+[gh-conda-org]: https://github.com/conda
+[gh-conda-incubator-org]: https://github.com/conda-incubator
+[gh-conda-archive-org]: https://github.com/conda-archive
 
+[conda.org]: https://conda.org/
+[conda.io]: https://conda.io/
 [governance]: https://github.com/conda-incubator/governance
 [coc]: https://github.com/conda-incubator/governance/blob/main/CODE_OF_CONDUCT.md#the-short-version
 [ceps]: https://github.com/conda-incubator/ceps
@@ -22,9 +24,9 @@
 Conda is an open-source organization and the community behind the [conda][conda] package manager.
 
 The conda community is composed of three organizations here on GitHub:
-- [conda][conda-org]: where officially supported projects live
-- [conda-incubator][conda-incubator-org]: where community incubated projects live
-- [conda-archive][conda-archive-org]: where inactive and archived projects live
+- [conda][gh-conda-org]: where officially supported projects live
+- [conda-incubator][gh-conda-incubator-org]: where community incubated projects live
+- [conda-archive][gh-conda-archive-org]: where inactive and archived projects live
 
 The flowchart below explains how projects move within these organizations:
 
@@ -69,6 +71,8 @@ These are GitHub projects that conda repositories use to keep track of their wor
 
 ### Important Community Places
 
+- [conda.org][conda.org]: Conda Community Site
+- [conda.io][conda.io]: Conda Documentation Site
 - [Governance][governance]: outlines and defines how the conda community works
 - [CEPs][ceps]: Conda Enhancement Proposals
 - [Discourse][discourse]: conda community discussion forum
