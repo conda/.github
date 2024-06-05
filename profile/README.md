@@ -4,14 +4,14 @@
 
 [conda.org]: https://conda.org/
 [conda.io]: https://conda.io/
-[governance]: https://github.com/conda-incubator/governance
-[coc]: https://github.com/conda-incubator/governance/blob/main/CODE_OF_CONDUCT.md#the-short-version
-[ceps]: https://github.com/conda-incubator/ceps
+[governance]: https://github.com/conda/governance
+[coc]: https://github.com/conda/governance/blob/main/CODE_OF_CONDUCT.md#the-short-version
+[ceps]: https://github.com/conda/ceps
 [discourse]: https://conda.discourse.group/
 [twitter]: https://twitter.com/condaproject
 [matrix]: https://matrix.to/#/#conda:matrix.org
 
-[transferring]: https://github.com/conda-incubator/governance#incorporate-a-software-project-into-the-main-conda-organization
+[transferring]: https://github.com/conda/governance#incorporate-a-software-project-into-the-main-conda-organization
 
 [conda]: https://github.com/conda/conda
 [conda-build]: https://github.com/conda/conda-build
