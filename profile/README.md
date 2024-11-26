@@ -52,7 +52,7 @@ flowchart LR
     classDef github fill:#24292f,stroke:none,color:#fff
 ```
 
-> **Note**
+> [!NOTE]
 > Projects may also be directly added to the conda organization upon request to the
 > steering council. For more details, please read [Incorporate a Software Project into the main conda Organization][transferring].
 
