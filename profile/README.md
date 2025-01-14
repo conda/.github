@@ -9,6 +9,7 @@
 [ceps]: https://github.com/conda/ceps
 [discourse]: https://conda.discourse.group/
 [zulip]: https://conda.zulipchat.com/
+[bluesky]: https://bsky.app/profile/condaproject.bsky.social
 
 [transferring]: https://github.com/conda/governance#incorporate-a-software-project-into-the-main-conda-organization
 
@@ -76,6 +77,7 @@ These are GitHub projects that conda repositories use to keep track of their wor
 - [CEPs][ceps]: Conda Enhancement Proposals
 - [Discourse][discourse]: conda community discussion forum
 - [Zulip][zulip]: chat with us
+- [BlueSky][bluesky]: for the latest news
 
 ---
 
