@@ -8,8 +8,8 @@
 [coc]: https://github.com/conda/governance/blob/main/CODE_OF_CONDUCT.md#the-short-version
 [ceps]: https://github.com/conda/ceps
 [discourse]: https://conda.discourse.group/
-[twitter]: https://twitter.com/condaproject
-[matrix]: https://matrix.to/#/#conda:matrix.org
+[zulip]: https://conda.zulipchat.com/
+[bluesky]: https://bsky.app/profile/condaproject.bsky.social
 
 [transferring]: https://github.com/conda/governance#incorporate-a-software-project-into-the-main-conda-organization
 
@@ -76,8 +76,8 @@ These are GitHub projects that conda repositories use to keep track of their wor
 - [Governance][governance]: outlines and defines how the conda community works
 - [CEPs][ceps]: Conda Enhancement Proposals
 - [Discourse][discourse]: conda community discussion forum
-- [Twitter][twitter]: for the latest developments
-- [Matrix][matrix]: chat with us
+- [Zulip][zulip]: chat with us
+- [BlueSky][bluesky]: for the latest news
 
 ---
 
