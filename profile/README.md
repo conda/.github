@@ -15,6 +15,7 @@
 
 [conda]: https://github.com/conda/conda
 [conda-build]: https://github.com/conda/conda-build
+[rattler]: https://github.com/conda/rattler
 
 [planning-board]: https://github.com/orgs/conda/projects/2
 [epic-board]: https://github.com/orgs/conda/projects/14
@@ -60,6 +61,7 @@ flowchart LR
 
 - [conda][conda]
 - [conda-build][conda-build]
+- [rattler][rattler]
 
 ### Projects
 
