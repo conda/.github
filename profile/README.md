@@ -9,7 +9,7 @@
 [ceps]: https://github.com/conda/ceps
 [discourse]: https://conda.discourse.group/
 [zulip]: https://conda.zulipchat.com/
-[bluesky]: https://bsky.app/profile/condaproject.bsky.social
+[bluesky]: https://bsky.app/profile/conda.org
 
 [transferring]: https://github.com/conda/governance#incorporate-a-software-project-into-the-main-conda-organization
 
