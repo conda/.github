@@ -18,6 +18,7 @@
 [rattler]: https://github.com/conda/rattler
 
 [planning-board]: https://github.com/orgs/conda/projects/2
+[anaconda-planning-board]: https://github.com/orgs/conda/projects/22
 [epic-board]: https://github.com/orgs/conda/projects/14
 [review-board]: https://github.com/orgs/conda/projects/16
 
@@ -67,9 +68,9 @@ flowchart LR
 
 These are GitHub projects that conda repositories use to keep track of their work.
 
-- [🧭 Planning][planning-board]
-- [📚 Epics][epic-board]
-- [🔎 Review][review-board]
+- [🧭 Anaconda's Planning Board][anaconda-planning-board] - Planning board specific to initiatives led by Anaconda Inc.
+- [📚 Epics][epic-board] - A list of epics from all projects in the conda organization
+- [🔎 Review][review-board] - A list of all ongoing and completed pull request reviews in the conda organzation
 
 ### Important Community Places
 
