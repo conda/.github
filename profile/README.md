@@ -7,7 +7,6 @@
 [governance]: https://github.com/conda/governance
 [coc]: https://github.com/conda/governance/blob/main/CODE_OF_CONDUCT.md#the-short-version
 [ceps]: https://github.com/conda/ceps
-[discourse]: https://conda.discourse.group/
 [zulip]: https://conda.zulipchat.com/
 [bluesky]: https://bsky.app/profile/conda.org
 
@@ -78,7 +77,6 @@ These are GitHub projects that conda repositories use to keep track of their wor
 - [conda.io][conda.io]: Conda Documentation Site
 - [Governance][governance]: outlines and defines how the conda community works
 - [CEPs][ceps]: Conda Enhancement Proposals
-- [Discourse][discourse]: conda community discussion forum
 - [Zulip][zulip]: chat with us
 - [BlueSky][bluesky]: for the latest news
 
